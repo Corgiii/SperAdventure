@@ -1,0 +1,11 @@
+C:\Users\Conor\Documents\Visual Studio 2013\SuperAdventurer\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\Conor\Documents\Visual Studio 2013\SuperAdventurer\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\Conor\Documents\Visual Studio 2013\SuperAdventurer\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\Conor\Documents\Visual Studio 2013\SuperAdventurer\SuperAdventure\SuperAdventure\bin\Debug\ClassLibrary1.dll
+C:\Users\Conor\Documents\Visual Studio 2013\SuperAdventurer\SuperAdventure\SuperAdventure\bin\Debug\ClassLibrary1.pdb
+C:\Users\Conor\Documents\Visual Studio 2013\SuperAdventurer\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Documents\Visual Studio 2013\SuperAdventurer\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.MyGame.resources
+C:\Users\Conor\Documents\Visual Studio 2013\SuperAdventurer\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\Conor\Documents\Visual Studio 2013\SuperAdventurer\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+C:\Users\Conor\Documents\Visual Studio 2013\SuperAdventurer\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\Conor\Documents\Visual Studio 2013\SuperAdventurer\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
